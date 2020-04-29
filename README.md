@@ -12,9 +12,9 @@
 ## 3、版本迭代更新截图
 
 ![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc1.png)
-![image text](https://github.com/YX1900/Visualization-of-COV-data/master/blob/picc2.png)
-![image text](https://github.com/YX1900/Visualization-of-COV-data/master/blob/picc3.png)
-![image text](https://github.com/YX1900/Visualization-of-COV-data/master/blob/picc4.png)
+![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc1.png)
+![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc3.png)
+![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc4.png)
 
 ## 4、源代码请联系:qq252310123或者其他方式
 
