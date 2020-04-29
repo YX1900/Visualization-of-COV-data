@@ -5,7 +5,7 @@
 
 ## 2、项目地址：
 
-## 中国疫情数据可视化监控http://cov.aiiyx.cn；
+## 中国疫情数据可视化监控http://cov.aiiyx.cn
 
 ## 世界疫情数据可视化监控http://cov.aiiyx.cn/world
 
