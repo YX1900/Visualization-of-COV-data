@@ -12,7 +12,7 @@
 ## 3、版本迭代更新截图
 
 ![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc1.png)
-![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc1.png)
+![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc2.png)
 ![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc3.png)
 ![image text](https://github.com/YX1900/Visualization-of-COV-data/blob/master/picc4.png)
 
